@@ -1,13 +1,3 @@
-/doc
-/Project2_new/residuals*
-/Project2_new/output*
-/Project2_ji/output*
-main
-gridGen
-testMatrix
-linSystem.py
-Report/
-*.o
-x
-y
-*.png
+build/*.o
+bin/*
+

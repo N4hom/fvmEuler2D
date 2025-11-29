@@ -233,7 +233,7 @@ void FlowSolver::initializeStateVector()
             {
                 q_[0][i][j] = rhoInf_;
                 q_[1][i][j] = rhoInf_ * uInf_;
-                q_[2][i][j] = vInf_;   
+                q_[2][i][j] = rhoInf_ *vInf_;   
                 q_[3][i][j] = epsInf_;
             }
         }
