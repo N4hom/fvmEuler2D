@@ -3,4 +3,4 @@
 Euler solver using the Jameson-Schmidt-Turkel scheme for the artificial viscosity
 
 ## Inlet Mach number = 0.7
-![Mach 0.7](./Project2/results/Mach07fine.png)
+![Mach 0.7](./doc/media/Mach07fine.png)
